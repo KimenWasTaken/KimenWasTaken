@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KimenWasTaken
-- 👀 I’m interested in Learning Lua
-- 🌱 I’m currently learning Learning Lua
+- 👀 I’m interested in Learning Computer Science, python, lua, c and c++
+- 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Nothing for now
 - 📫 How to reach me ...
 
