@@ -77,7 +77,7 @@ I'm taking on commissions to gain experience and build my portfolio while also g
 
 <div align="center">
 
-[![Discord Server](https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NFJpNHMXU6)
+[![My Portafolio](https://img.shields.io/badge/Discord_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NFJpNHMXU6)
 [![Roblox Profile](https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/users/197761743/profile)
 [![My Links](https://img.shields.io/badge/My_Links-87CEEB?style=for-the-badge&logo=About.me&logoColor=black)](https://guns.lol/kimen)
 
